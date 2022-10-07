@@ -1,0 +1,3 @@
+hit the url -> http://localhost:8080/user/register
+click to the Add User button
+fill the form and submit
